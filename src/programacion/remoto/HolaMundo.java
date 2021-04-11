@@ -7,6 +7,7 @@ public class HolaMundo {
 		
 		System.out.println("Esta es la rama secundaria");
 		System.out.println("Esto es una prueba con la rama principal");
+		System.out.println("Nuevo commit sin rama secundaria");
 	}
 
 }
